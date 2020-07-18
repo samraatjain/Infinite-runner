@@ -1,2 +1,2 @@
-# Infinite-runner
-Moving the camera and the players in y direction
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
